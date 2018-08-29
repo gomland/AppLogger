@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppLogger</string>
+    <string name="logger_title">로그 저장기</string>
+    <string name="logger_start_logging">로깅 시작</string>
+    <string name="logger_stop_logging">로깅 종료</string>
+</resources>
